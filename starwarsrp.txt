@@ -1,4 +1,4 @@
-"darkrp"
+"starwarsrp"
 {
 	"base"		"sandbox"
     "title"  "DarkRP"
